@@ -7,7 +7,7 @@ This repository showcases the data analysis of user interactions from my portfol
 ### 🔗 Live Links
 
 * **Portfolio Website:** [https://laminkhant-portfolio.vercel.app/](https://laminkhant-portfolio.vercel.app/)
-* **Live Dashboard:** [View Real-time Chatbot Analytics](https://www.google.com/search?q=https://charts.mongodb.com/charts-atlas-orange-pocket-cmqciux/public/dashboards/82eddee9-a7b2-4c60-a1a4-41026bfc2094)
+* **Live Dashboard:** [View Real-time Chatbot Analytics](https://charts.mongodb.com/charts-atlas-orange-pocket-cmqciux/public/dashboards/82eddee9-a7b2-4c60-a1a4-41026bfc2094)
 
 ### 💡 Overview
 
@@ -29,7 +29,7 @@ I track and analyze user interactions from my portfolio website to understand us
 ### 🔗 Live Links
 
 * **Portfolio Website:** [https://laminkhant-portfolio.vercel.app/](https://laminkhant-portfolio.vercel.app/)
-* **Live Dashboard:** [Real-time Chatbot Analytics ကို ကြည့်ရှုရန်](https://www.google.com/search?q=https://charts.mongodb.com/charts-atlas-orange-pocket-cmqciux/public/dashboards/82eddee9-a7b2-4c60-a1a4-41026bfc2094)
+* **Live Dashboard:** [Real-time Chatbot Analytics ကို ကြည့်ရှုရန်](https://charts.mongodb.com/charts-atlas-orange-pocket-cmqciux/public/dashboards/82eddee9-a7b2-4c60-a1a4-41026bfc2094)
 
 ### 💡 Overview
 
