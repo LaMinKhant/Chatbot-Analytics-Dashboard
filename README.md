@@ -1,4 +1,5 @@
 # Chatbot Analytics Dashboard 📊
+<img width="1157" height="717" alt="image" src="https://github.com/user-attachments/assets/858de5ab-13ab-4fd5-868b-da1b88cf5928" />
 
 ## [English]
 
