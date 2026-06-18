@@ -37,7 +37,7 @@ I track and analyze user interactions from my portfolio website to understand us
 
 * **Total Traffic:** စုစုပေါင်း မက်ဆေ့ချ် အရေအတွက်။
 * **User Engagement:** တစ်ကြိမ်ချင်းစီ၏ ပျမ်းမျှ မက်ဆေ့ချ် အရေအတွက်။
-* **Peak Hours:** အသုံးပြုသူများ အများဆုံး အပြန်အလှန်ပြောဆိုသည့် အချိန်ကာလ။
+* **Peak Hours:** အများဆုံး အပြန်အလှန်ပြောဆိုသည့် အချိန်ကာလ။
 * **Language/Region Distribution:** အသုံးပြုသည့် ဘာသာစကားနှင့် တည်နေရာအလိုက် ခွဲခြားမှု။
 
 ### 📈 Dashboard Preview
