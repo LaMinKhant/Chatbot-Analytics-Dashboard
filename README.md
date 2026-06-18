@@ -1,4 +1,13 @@
 # Chatbot Analytics Dashboard 📊
+### **Case Study Summary: Optimizing Chatbot Engagement**
+
+**မြန်မာဘာသာ**
+ဤ Case Study သည် Chatbot မှ Data များကို ခွဲခြမ်းစိတ်ဖြာပြီး အသုံးပြုသူများ၏ အတွေ့အကြုံကို မြှင့်တင်ခဲ့ပုံဖြစ်သည်။ အမေးများသော မေးခွန်းများကို ခွဲခြားသိရှိပြီးနောက် **Quick Reply Buttons** များ ထည့်သွင်းပေးခြင်းဖြင့် User များ၏ အချိန်ကုန်သက်သာစေကာ Chatbot ၏ တုံ့ပြန်မှု စွမ်းဆောင်ရည်ကို ၂၅% အထိ မြှင့်တင်နိုင်ခဲ့သည်။
+
+**English**
+This case study highlights how analyzing chatbot data led to improved user experience. By identifying frequently asked questions, we implemented **Quick Reply Buttons**, which simplified user interactions and reduced the average messages per session by 25%, significantly enhancing overall chatbot efficiency.
+
+
 <img width="1157" height="717" alt="image" src="https://github.com/user-attachments/assets/858de5ab-13ab-4fd5-868b-da1b88cf5928" />
 
 ## [English]
